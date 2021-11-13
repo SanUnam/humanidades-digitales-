@@ -1,10 +1,10 @@
 
 # Site settings
 title: Humanidades_ Filos digítal 
-author: 
-name: Santiago Aguilar Luna
+author: Santiago Aguilar Luna 
+name: Santiago 
 email: sanUNAM20@gmail.com
-description: Investigaciones sobre las humanidades digítales
+description: "Investigaciones sobre las humanidades digítales"
 
 # Build settings
 remote_theme: jeky11/minima
