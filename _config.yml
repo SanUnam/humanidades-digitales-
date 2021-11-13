@@ -1,0 +1,10 @@
+
+# Site settings
+title: Humanidades_ Filosofía digítal
+author: Santiago Aguilar
+name: Santiago
+email: sanUNAM20@gmail.com
+description: "Investigaciones sobre humanidades digítales"
+
+#Build settings
+remote_theme: jekyll/minima 
