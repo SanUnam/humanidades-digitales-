@@ -1,4 +1,4 @@
-# ¿Qué son las huanidades digítales? #
+# ¿Qué son las humanidades digítales? #
 
 ## Ideas principales de cada autora ##
 
