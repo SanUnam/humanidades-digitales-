@@ -1,4 +1,4 @@
-# El texto digítal
+# El texto digital
 
 ## Esquema ##
 
